@@ -7,4 +7,5 @@ This project involves building a machine learning model to predict molecular sol
 The model's performance is validated using the following metrics:
 
 Mean Squared Error (MSE): Measures the average squared difference between predicted and actual values.
+
 R² Score: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
